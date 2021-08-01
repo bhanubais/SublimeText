@@ -1,0 +1,5 @@
+// These settings override both User and Default settings for the Note syntax
+{
+
+    "color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme"
+}

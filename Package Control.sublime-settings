@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ayu",
+		"Babel",
+		"Origami",
+		"OverrideAudit",
+		"Package Control",
+		"PackageDev",
+		"PlainNotes",
+		"Sass",
+		"SnAPI",
+		"Terminus",
+		"Text Pastry",
+	],
+	"repositories":
+	[
+		"https://raw.githubusercontent.com/STealthy-and-haSTy/SublimePackages/master/unreleased-packages.json"
+	],
+}

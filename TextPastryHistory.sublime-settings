@@ -1,0 +1,27 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "1"
+			},
+			"key": "c4ca4238a0b923820dcc509a6f75849b",
+			"label": "1"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "1"
+		},
+		"command": "text_pastry_step",
+		"text": "1"
+	}
+}
