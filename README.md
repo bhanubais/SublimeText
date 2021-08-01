@@ -16,6 +16,6 @@
 - Sass
 - Ayu Theme
 - Text Pastry (select multiple cursors and press `Ctrl + Alt + n` press `1` Hit Enter and see results)
-
+- Compare Side-By-Side (Open both files, press `Ctrl+Shift+p`, choose `Compare with...` and select another file)
 
 Thank you!
