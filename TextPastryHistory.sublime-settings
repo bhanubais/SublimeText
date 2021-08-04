@@ -6,22 +6,37 @@
 			{
 				"args":
 				{
-					"text": "1"
+					"text": "1",
 				},
 				"command": "text_pastry_step",
-				"text": "1"
+				"text": "1",
 			},
 			"key": "c4ca4238a0b923820dcc509a6f75849b",
-			"label": "1"
-		}
+			"label": "1",
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "a",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "a"
+			},
+			"key": "0cc175b9c0f1b6a831c399e269772661",
+			"label": "a"
+		},
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "1"
+			"text": "a",
+			"threshold": 3,
 		},
-		"command": "text_pastry_step",
-		"text": "1"
-	}
+		"command": "text_pastry_insert_text",
+		"text": "a",
+	},
 }

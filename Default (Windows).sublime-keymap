@@ -9,6 +9,14 @@
         }
     },
 
+    // Open a terminal tab at current file directory
+    {
+        "keys": ["ctrl+alt+t"], "command": "terminus_open", "args": {
+            "cwd": "${file_path:${folder}}"
+        }
+    },
+
+
     // Close a terminus view using the standard close keyboard shortcut.
     {
         "keys": ["ctrl+w"],

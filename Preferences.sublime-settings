@@ -27,12 +27,12 @@
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
-		80
+		75
 	],
 	"show_encoding": true,
 	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "auto",
-	"wrap_width": 110,
+	"wrap_width": 75,
 }

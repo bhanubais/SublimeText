@@ -1,4 +1,6 @@
 // These settings override both User and Default settings for the Python syntax
 {
-    "rulers": [79, 80]
+    "rulers": [79, 80],
+    "word_wrap": "true",
+    "wrap_width": 75,
 }
